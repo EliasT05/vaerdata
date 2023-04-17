@@ -1,4 +1,4 @@
-,referenceTime,mean(air_temperature P1D),mean(cloud_area_fraction P1D),sum(duration_of_sunshine P1D)
+index,referenceTime,mean(air_temperature P1D),mean(cloud_area_fraction P1D),sum(duration_of_sunshine P1D)
 0,2013-04-01,1.35,1.0,12.7
 1,2013-04-05,4.3,4.3,9.6
 2,2013-04-09,1.15,2.3,12.8
